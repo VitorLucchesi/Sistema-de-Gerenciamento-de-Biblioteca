@@ -1,0 +1,14 @@
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\bin\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.exe
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\bin\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.deps.json
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\bin\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.runtimeconfig.json
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\bin\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.dll
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\bin\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.pdb
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.AssemblyInfoInputs.cache
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.AssemblyInfo.cs
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.dll
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\refint\SistemaDeGerenciamentoDeBiblioteca.dll
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.pdb
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\SistemaDeGerenciamentoDeBiblioteca.genruntimeconfig.cache
+C:\Users\vlj\source\repos\SistemaDeGerenciamentoDeBiblioteca\obj\Debug\net8.0\ref\SistemaDeGerenciamentoDeBiblioteca.dll
